@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+# Probed the /.well-known/ discovery surface on the marketing host and the app host.
+# No genuine well-known documents are published. The insyghts.entytle.com app is a
+# single-page app that returns its HTML shell (soft-200) for every path, so those
+# 200s are NOT real well-known documents and no raw files were saved.
+hosts:
+- host: https://entytle.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: https://insyghts.entytle.com
+  note: SPA returns its HTML shell (soft-200) for all paths; not real documents
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    spa_catch_all: true
+  - path: /.well-known/openid-configuration
+    status: 200
+    spa_catch_all: true

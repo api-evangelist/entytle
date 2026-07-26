@@ -1,0 +1,14 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://entytle.com/compliance/
+url: https://entytle.com/compliance/
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://entytle.com/compliance/
+  keywords:
+  - soc 2
+  - soc2
+  - gdpr

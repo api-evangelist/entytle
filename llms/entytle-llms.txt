@@ -1,0 +1,54 @@
+# LLMs.txt – Entytle
+
+## Basic Information
+Company Name: Entytle, Inc.
+Website: https://entytle.com/
+Founded: 2014
+Headquarters: 2301 W Anderson Ln, Austin, Texas 78757, USA
+Industry: B2B SaaS, AI, Industrial OEM Software
+Business Type: Enterprise Software / AI-powered SaaS Platform
+
+## Summary
+Entytle provides a SaaS platform that unifies fragmented data from ERP, CRM, FSM, and spreadsheets into a single "Source of Truth" for an OEM’s installed base. By leveraging purpose-built AI and a specialized Data Quality Engine, Entytle identifies hidden revenue opportunities, predicts customer needs (parts, service, upgrades), and helps prevent customer churn.
+
+## Core Products & Solutions
+
+### Aftermarket IQ
+* **Entytle IB 360 & Customer Central:** Provides a comprehensive view of accounts, assets, locations, and transaction history.
+* **Customer Loyalty Manager:** Identifies and prevents customer "drifting" or churn.
+* **Predictive Opportunities:** AI-generated hunting lists for parts purchase, service contracts, and equipment upgrades.
+* **Wallet Share Assessment:** Diagnoses gaps in customer spend and identifies upsell potential.
+
+### Automation & Efficiency Tools
+* **Quote Agent:** AI-powered tool that automates and accelerates the quoting process, reducing response times from hours to minutes.
+* **Asset Lifecycle Management:** Tracks equipment health and predicts the next maintenance or replacement event.
+* **IB HealthCheck:** Monitors the overall "health" and completeness of your installed base data.
+
+### Platform Capabilities
+* **Data Unification & Integration:** Integrates with systems like Salesforce, Microsoft Dynamics, SAP, and legacy ERPs.
+* **Data Quality Engine:** Purpose-built algorithms to clean, de-duplicate, and enrich complex industrial data.
+* **AI & Analytics:** Manufacturing-specific models for propensity-to-buy and purchase pattern analysis.
+
+## Solutions by Team
+
+* **Aftermarket Teams:** Focus on parts and service growth, upgrade/modification targeting, and kit sales.
+* **Sales Teams:** Optimize territory planning, account planning, and replacement targeting.
+* **Service Teams:** Visibility into service history, audit/inspection records, and travel planning.
+* **Marketing Teams:** Create targeted digital outreach campaigns based on IoT data and purchase history.
+
+## Consulting & Services
+* **Installed Base Data Prep:** Specialized cleanup for equipment and customer data.
+* **Parts Data Cleanup:** Standardizing and de-duplicating parts catalogues for better inventory management.
+* **Insights & Strategy:** Professional services to assess market size and parts spend potential.
+
+## Key Customers
+Trusted by industry leaders including: Johnson Controls, Baker Hughes, Xylem, GEA, Dematic, Duravant, and Peerless Pump.
+
+## Resources & Links
+* Case Studies: https://entytle.com/case-studies/
+* Blog: https://entytle.com/blogs/
+* Build vs Buy Calculator: https://entytle.com/calculators/
+
+## Contact Information
+* Email: info@entytle.com
+* Phone: +1 (512) 436-3202

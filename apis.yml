@@ -1,8 +1,17 @@
 aid: entytle
 name: Entytle
-description: 'Entytle is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Entytle, Inc. (founded 2014, Austin, Texas) provides an Installed Base
+  Intelligence SaaS platform for equipment manufacturers (OEMs). It unifies fragmented
+  data from ERP, CRM, FSM systems, and spreadsheets into a single "Source of Truth"
+  for an OEM''s installed base, then applies purpose-built AI and a Data Quality Engine
+  to surface aftermarket revenue opportunities, predict parts/service/upgrade needs,
+  and prevent customer churn. Products include Aftermarket IQ (IB 360, Customer Central,
+  Customer Loyalty Manager, Predictive Opportunities, Wallet Share Assessment), an
+  AI Quote Agent, Asset Lifecycle Management, IB HealthCheck, and a Data Quality Engine.
+  Customers include Johnson Controls, Baker Hughes, Xylem, GEA, Dematic, Duravant,
+  and Peerless Pump. Surfaced as an Accel portfolio company and enriched from Entytle''s
+  public surface; Entytle exposes an enterprise application (Entytle Insyghts) but
+  publishes no public developer API, OpenAPI, or SDK.'
 url: https://raw.githubusercontent.com/api-evangelist/entytle/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,32 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://entytle.com/wp-content/uploads/2024/07/entytle-logo-resized.png
 tags:
 - Company
 - Enterprise
+- Installed Base Intelligence
+- Aftermarket
+- Manufacturing
+- OEM
+- Industrial
+- SaaS
+- Artificial Intelligence
+- Data Quality
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +53,33 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.entytle.com
+  url: https://www.entytle.com
+- type: Blog
+  url: https://entytle.com/blogs/
+- type: Pricing
+  url: https://entytle.com/pricing/
+- type: SignUp
+  url: https://entytle.com/free-trial-entytle/
+- type: Login
+  url: https://insyghts.entytle.com/en/login
+- type: Support
+  url: https://entytle.com/contact/
+- type: TermsOfService
+  url: https://entytle.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://entytle.com/privacy-policy/
+- type: Compliance
+  url: https://entytle.com/compliance/
+- type: TrustCenter
+  url: security/entytle-trust-center.yml
+- type: Conformance
+  url: conformance/entytle-conformance.yml
+- type: DomainSecurity
+  url: security/entytle-domain-security.yml
+- type: LLMsTxt
+  url: llms/entytle-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
